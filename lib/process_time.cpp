@@ -1,6 +1,4 @@
-
 #include <include/job_base.h>
-#include <string>
 
 using namespace std;
 
