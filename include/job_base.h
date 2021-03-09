@@ -10,6 +10,7 @@
  *
  */
 class ProcessTime{
+	friend class TestProcessTime;
 private:
 	unsigned int machine_no;
 	double process_time;
